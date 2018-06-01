@@ -1,0 +1,4 @@
+id, username, password, fullname
+1, husam, 123, Õ”«„ »—Â«‰
+2, usama, 123, √”«„… »—Â«‰
+3, ahmad, 321, √Õ„œ ¬€«
