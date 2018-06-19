@@ -1,0 +1,4 @@
+﻿id, filename, name
+id1, unit1_ch1_minmax.pdf, القيم الصغرى والكبرى
+id2, unit3_ch1_exponents.pdf, القوى
+id3, unit3_ch2_radicals.pdf, الجذور
