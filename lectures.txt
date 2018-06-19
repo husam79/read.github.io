@@ -2,3 +2,4 @@
 id1, unit1_ch1_minmax.pdf, القيم الصغرى والكبرى
 id2, unit3_ch1_exponents.pdf, القوى
 id3, unit3_ch2_radicals.pdf, الجذور
+id4, unit3_ch3_radicals.pdf, تجرةةةبةبةب
