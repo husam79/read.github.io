@@ -1,2 +1,6 @@
 ﻿id, filename, name
-id1, unit1_ch1_minmax.pdf, القيم الصغرى والكبرى
+id1,introduction.pdf,مراجعة عامة
+id2, min_max.pdf, القيم الصغرى والكبرى
+id3, decimal_system.pdf, القيمة المكانية في النظام العشري
+id4, number_series.pdf, سلاسل الأعداد
+id5, factorials.pdf, العاملي
