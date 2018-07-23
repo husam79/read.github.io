@@ -16,6 +16,7 @@ uid14, i.sheikh, qsc, إسراء الشيخ
 uid15, b.shasho, tfx, بشرى شاشو
 uid16, b.sleibi, pkv, بيان الصليبي
 uid17, r.shazly, bgi, رياض شاذلي
-uid18, d.dummy, 123, dummy
+uid18, usama, 123, أسامة
+uid19, d.dummy, 123, dummy
 
 
