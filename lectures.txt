@@ -1,8 +1,9 @@
 ﻿id, filename, name
-id1,introduction.pdf,مراجعة عامة
-id2, min_max.pdf, القيم الصغرى والكبرى
-id3, decimal_system.pdf, القيمة المكانية في النظام العشري
-id4, number_series.pdf, سلاسل الأعداد
-id5, factorials.pdf, العاملي
-id6,divisions.pdf, عمليات القسمة
-id7, numbering_systems.pdf, أنظمة العد
+leid1,introduction.pdf,مراجعة عامة
+leid2, min_max.pdf, القيم الصغرى والكبرى
+leid3, decimal_system.pdf, القيمة المكانية في النظام العشري
+leid4, number_series.pdf, سلاسل الأعداد
+leid5, factorials.pdf, العاملي
+leid6,divisions.pdf, عمليات القسمة
+leid7, numbering_systems.pdf, أنظمة العد
+leid8, geo_angles_priciples.pdf, هندسة - الزوايا
