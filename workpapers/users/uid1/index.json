@@ -2,7 +2,7 @@
 	"workpapers": [
 		{
 			"id": "wpid1",
-			"name":"عاملي 1",
+			"name":"factorials-1",
 			"ref":"puza-1-test3-page-290",
 			"correctAnswers":"E,E,D,E,C,E,C,A,E,D,C,B,C,A,B,D",
 			"chosenAnswers":"-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-",
@@ -30,7 +30,7 @@
 		},
 		{
 			"id": "wpid2",
-			"name":"عاملي 2",
+			"name":"factorials-2",
 			"ref":"puza-1-test3-page-290",
 			"correctAnswers":"E,E,D,E,C,E,C,A,E,D,C,B,C,A,B,D",
 			"chosenAnswers":"-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-",
