@@ -1,138 +1,123 @@
 {
-	"workpapers": [
-		{
-			"id": "wpid1",
-			"name":"factorials-1",
-			"ref":"puza-1-test3-page-290",
-			"correctAnswers":"E,E,D,E,C,E,C,A,E,D,C,B,C,A,B,D",
-			"chosenAnswers":"-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-",
-			"totalQuestions":16,
+  "workpapers": [
+    {
+      "id": "wpid1",
+      "name": "factorials-1",
+      "ref": "puza-1-test3-page-290",
       "questions": [
         {
           "id": "qid1",
           "url": "wpid1/1.png",
           "youtubeUrl": "",
-          "correctAnswer": "A"
+          "correctAnswer": "A",
+          "chosenAnswer": "-"
         },
         {
           "id": "qid2",
           "url": "wpid1/2.png",
           "youtubeUrl": "J4qqnWscqeQ",
-          "correctAnswer": "B"
+          "correctAnswer": "B",
+          "chosenAnswer": "-"
         },
         {
           "id": "qid3",
           "url": "wpid1/3.png",
           "youtubeUrl": "",
-          "correctAnswer": "C"
+          "correctAnswer": "C",
+          "chosenAnswer": "-"
         },
         {
           "id": "qid4",
           "url": "wpid1/1.png",
           "youtubeUrl": "J4qqnWscqeQ",
-          "correctAnswer": "A"
+          "correctAnswer": "A",
+          "chosenAnswer": "-"
         },
         {
           "id": "qid5",
           "url": "wpid1/2.png",
           "youtubeUrl": "J4qqnWscqeQ",
-          "correctAnswer": "B"
+          "correctAnswer": "B",
+          "chosenAnswer": "-"
         },
         {
           "id": "qid6",
           "url": "wpid1/3.png",
           "youtubeUrl": "J4qqnWscqeQ",
-          "correctAnswer": "C"
+          "correctAnswer": "C",
+          "chosenAnswer": "-"
         },
         {
           "id": "qid7",
           "url": "wpid1/1.png",
           "youtubeUrl": "J4qqnWscqeQ",
-          "correctAnswer": "A"
+          "correctAnswer": "A",
+          "chosenAnswer": "-"
         },
         {
           "id": "qid8",
           "url": "wpid1/2.png",
           "youtubeUrl": "J4qqnWscqeQ",
-          "correctAnswer": "B"
+          "correctAnswer": "B",
+          "chosenAnswer": "-"
         },
         {
           "id": "qid9",
           "url": "wpid1/3.png",
           "youtubeUrl": "J4qqnWscqeQ",
-          "correctAnswer": "C"
+          "correctAnswer": "C",
+          "chosenAnswer": "-"
         },
         {
           "id": "qid10",
           "url": "wpid1/1.png",
           "youtubeUrl": "J4qqnWscqeQ",
-          "correctAnswer": "A"
+          "correctAnswer": "A",
+          "chosenAnswer": "-"
         },
         {
           "id": "qid11",
           "url": "wpid1/2.png",
           "youtubeUrl": "J4qqnWscqeQ",
-          "correctAnswer": "B"
+          "correctAnswer": "B",
+          "chosenAnswer": "-"
         },
         {
           "id": "qid12",
           "url": "wpid1/3.png",
           "youtubeUrl": "J4qqnWscqeQ",
-          "correctAnswer": "C"
+          "correctAnswer": "C",
+          "chosenAnswer": "-"
         },
         {
           "id": "qid13",
           "url": "wpid1/1.png",
           "youtubeUrl": "J4qqnWscqeQ",
-          "correctAnswer": "A"
+          "correctAnswer": "A",
+          "chosenAnswer": "-"
         },
         {
           "id": "qid14",
           "url": "wpid1/2.png",
           "youtubeUrl": "J4qqnWscqeQ",
-          "correctAnswer": "B"
+          "correctAnswer": "B",
+          "chosenAnswer": "-"
         },
         {
           "id": "qid15",
           "url": "wpid1/3.png",
           "youtubeUrl": "J4qqnWscqeQ",
-          "correctAnswer": "C"
+          "correctAnswer": "C",
+          "chosenAnswer": "-"
         },
         {
           "id": "qid16",
           "url": "wpid1/3.png",
           "youtubeUrl": "",
-          "correctAnswer": "C"
+          "correctAnswer": "C",
+          "chosenAnswer": "-"
         }
       ]
-		},
-		{
-			"id": "wpid2",
-			"name":"factorials-2",
-			"ref":"puza-1-test3-page-290",
-			"correctAnswers":"E,E,D,E,C,E,C,A,E,D,C,B,C,A,B,D",
-			"chosenAnswers":"-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-",
-			"totalQuestions":16,
-			"questions":[
-        {
-          "id": "qid1",
-          "url": "wpid1/1.png",
-          "youtubeUrl": "J4qqnWscqeQ",
-          "correctAnswer": "A"
-        },
-        {
-          "id": "qid2",
-          "url": "wpid1/2.png",
-          "youtubeUrl": "J4qqnWscqeQ",
-          "correctAnswer": "B"
-        },
-        {
-          "id": "qid3",
-          "url": "wpid1/3.png",
-          "youtubeUrl": "J4qqnWscqeQ",
-          "correctAnswer": "C"
-        }
-			]
-		}
-	]
+    }
+  ]
 }
