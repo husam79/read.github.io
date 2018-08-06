@@ -4,6 +4,7 @@
       "id": "wpid1",
       "name": "[code]17,0,23,22,27",
       "ref": "puza-1-test3-page-290",
+	  "category" : "[code]25,24,7,11,3",
       "questions": [
         {
           "id": "qid1",
@@ -124,6 +125,7 @@
       "id": "wpid2",
       "name": "factorials 22",
       "ref": "puza-21-test113-page-3669",
+	  "category" : "[code]25,24,7,11,3",
       "questions": [
         {
           "id": "qid1",
