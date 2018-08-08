@@ -8,3 +8,4 @@ leid6,divisions.pdf, عمليات القسمة
 leid7, numbering_systems.pdf, أنظمة العد
 leid8, geo_angles_priciples.pdf, هندسة - الزوايا
 leid9, decimals_fractions.pdf, كسور وأعداد عشرية
+leid10, identities.pdf, متطابقات
