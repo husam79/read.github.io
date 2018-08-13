@@ -77,6 +77,57 @@
           "chosenAnswer": "-"
         }
       ]
+    },
+	
+	{
+      "id": "wpid3",
+      "name": "factoring-2",
+      "ref": "puza-mat1-test1-page-183",
+	  "category" : "MATH",
+      "questions": [
+        {
+          "id": "qid1",
+          "url": "wpid3/1.png",
+          "youtubeUrl": "CHjgLO_My2o",
+          "correctAnswer": "A",
+          "chosenAnswer": "-"
+        },
+        {
+          "id": "qid2",
+          "url": "wpid3/2.png",
+          "youtubeUrl": "E28q4g7b6kk",
+          "correctAnswer": "C",
+          "chosenAnswer": "-"
+        },
+        {
+          "id": "qid3",
+          "url": "wpid3/3.png",
+          "youtubeUrl": "-4S7wrJjMUQ",
+          "correctAnswer": "C",
+          "chosenAnswer": "-"
+        },
+        {
+          "id": "qid4",
+          "url": "wpid3/4.png",
+          "youtubeUrl": "U5ATRtBmtGE",
+          "correctAnswer": "B",
+          "chosenAnswer": "-"
+        },
+        {
+          "id": "qid5",
+          "url": "wpid3/5.png",
+          "youtubeUrl": "6m0pXq_kov4",
+          "correctAnswer": "A",
+          "chosenAnswer": "-"
+        },
+        {
+          "id": "qid6",
+          "url": "wpid3/6.png",
+          "youtubeUrl": "_qEVRdRcdno",
+          "correctAnswer": "E",
+          "chosenAnswer": "-"
+        }
+      ]
     }
   ]
 }
