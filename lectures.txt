@@ -10,3 +10,4 @@ leid8, decimals_fractions.pdf, كسور وأعداد عشرية
 leid9, identities.pdf, متطابقات
 leid10, geo_angles_priciples.pdf, هندسة - الزوايا
 lied11, geo_angles_in_traingles.pdf, هندسة - الزوايا في المثلث
+lied12, ratios_proportions.pdf, النسب والتناسب
