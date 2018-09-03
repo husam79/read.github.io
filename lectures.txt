@@ -11,3 +11,4 @@ leid9, identities.pdf, متطابقات
 leid10, geo_angles_priciples.pdf, هندسة - الزوايا
 lied11, geo_angles_in_traingles.pdf, هندسة - الزوايا في المثلث
 lied12, ratios_proportions.pdf, النسب والتناسب
+lied13, geo_angles_and_sides.pdf, العلاقة بين الزوايا والأضلاع
