@@ -557,7 +557,130 @@
           "chosenAnswer": "-"
         }
       ]
+    },
+	
+	{
+      "id": "wpid7",
+      "name": "geometri-acilar",
+      "ref": "puza-geo-test3-page-12-13",
+	  "category" : "MATH",
+      "questions": [
+        {
+          "id": "qid1",
+          "url": "wpid7/1.png",
+          "youtubeUrl": "wig6-b395OM",
+          "correctAnswer": "B",
+          "chosenAnswer": "-"
+        },
+        {
+          "id": "qid2",
+          "url": "wpid7/2.png",
+          "youtubeUrl": "5_ngmDZrO40",
+          "correctAnswer": "A",
+          "chosenAnswer": "-"
+        },
+        {
+          "id": "qid3",
+          "url": "wpid7/3.png",
+          "youtubeUrl": "Z79x0ZY0IjU",
+          "correctAnswer": "C",
+          "chosenAnswer": "-"
+        },
+        {
+          "id": "qid4",
+          "url": "wpid7/4.png",
+          "youtubeUrl": "RYkpH5GyWTU",
+          "correctAnswer": "C",
+          "chosenAnswer": "-"
+        },
+        {
+          "id": "qid5",
+          "url": "wpid7/5.png",
+          "youtubeUrl": "p8eXH_h1iiE",
+          "correctAnswer": "B",
+          "chosenAnswer": "-"
+        },
+        {
+          "id": "qid6",
+          "url": "wpid7/6.png",
+          "youtubeUrl": "qbQAGbWGaeI",
+          "correctAnswer": "D",
+          "chosenAnswer": "-"
+        },
+		{
+          "id": "qid7",
+          "url": "wpid7/7.png",
+          "youtubeUrl": "uq4sQUvOuXM",
+          "correctAnswer": "C",
+          "chosenAnswer": "-"
+        },
+        {
+          "id": "qid8",
+          "url": "wpid7/8.png",
+          "youtubeUrl": "XjmE_EamaXE",
+          "correctAnswer": "B",
+          "chosenAnswer": "-"
+        },
+        {
+          "id": "qid9",
+          "url": "wpid7/9.png",
+          "youtubeUrl": "e7hKfkP7y1o",
+          "correctAnswer": "A",
+          "chosenAnswer": "-"
+        },
+        {
+          "id": "qid10",
+          "url": "wpid7/10.png",
+          "youtubeUrl": "VgpYybfOTNc",
+          "correctAnswer": "E",
+          "chosenAnswer": "-"
+        },
+        {
+          "id": "qid11",
+          "url": "wpid7/11.png",
+          "youtubeUrl": "5ghcLVBor3o",
+          "correctAnswer": "D",
+          "chosenAnswer": "-"
+        },
+        {
+          "id": "qid12",
+          "url": "wpid7/12.png",
+          "youtubeUrl": "",
+          "correctAnswer": "E",
+          "chosenAnswer": "-"
+        },
+		{
+          "id": "qid13",
+          "url": "wpid7/12.png",
+          "youtubeUrl": "",
+          "correctAnswer": "E",
+          "chosenAnswer": "-"
+        },
+		{
+          "id": "qid14",
+          "url": "wpid7/12.png",
+          "youtubeUrl": "",
+          "correctAnswer": "E",
+          "chosenAnswer": "-"
+        },
+		{
+          "id": "qid15",
+          "url": "wpid7/12.png",
+          "youtubeUrl": "",
+          "correctAnswer": "E",
+          "chosenAnswer": "-"
+        },
+		{
+          "id": "qid16",
+          "url": "wpid7/12.png",
+          "youtubeUrl": "",
+          "correctAnswer": "E",
+          "chosenAnswer": "-"
+        }
+      ]
     }
+	
+	
 	
   ]
 }
