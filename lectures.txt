@@ -12,3 +12,5 @@ leid10, geo_angles_priciples.pdf, هندسة - الزوايا
 lied11, geo_angles_in_traingles.pdf, هندسة - الزوايا في المثلث
 lied12, ratios_proportions.pdf, النسب والتناسب
 lied13, geo_angles_and_sides.pdf, العلاقة بين الزوايا والأضلاع
+lied14, exponentials.pdf, القوى
+lied15, radicals.pdf, الجذور
