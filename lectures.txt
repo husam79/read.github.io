@@ -14,3 +14,5 @@ lied12, ratios_proportions.pdf, النسب والتناسب
 lied13, geo_angles_and_sides.pdf, العلاقة بين الزوايا والأضلاع
 lied14, exponentials.pdf, القوى
 lied15, radicals.pdf, الجذور
+lied16, linear_equations.pdf, المعادلات الخطية
+
