@@ -15,4 +15,6 @@ lied13, geo_angles_and_sides.pdf, العلاقة بين الزوايا والأ�
 lied14, exponentials.pdf, القوى
 lied15, radicals.pdf, الجذور
 lied16, linear_equations.pdf, المعادلات الخطية
+lied17, linear_inequalities.pdf, المتراجحات الخطية
+
 
