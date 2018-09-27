@@ -16,5 +16,6 @@ lied14, exponentials.pdf, القوى
 lied15, radicals.pdf, الجذور
 lied16, linear_equations.pdf, المعادلات الخطية
 lied17, linear_inequalities.pdf, المتراجحات الخطية
+lied18, absolute_value.pdf, القيمة المطلقة
 
 
