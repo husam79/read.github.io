@@ -13,9 +13,6 @@ uid15, b.shasho, tfx, بشرى شاشو
 uid16, b.sleibi, pkv, بيان الصليبي
 uid18, fawzi, 123, أستاذ فوزي
 uid19, abd, 123, عبد الله الحلو
-uid20, d.dummy, 123, dummy
 uid21, m.sem, ujh, محمد سمسمية
 uid22, kasem.h, yjk, قاسم الحريري
-
-
-
+uid23, d.dummy, 123, dummy
